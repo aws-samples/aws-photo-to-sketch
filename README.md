@@ -8,7 +8,7 @@ As said, this project allows you to transform an original picture into an styled
 
 - **Original picture**:
 
-![Original](dog.jpeg)
+![Original](./src/img/dog.jpeg)
 
 - **Style 1, Vincent van Gogh, The Starry Night**:
 
@@ -45,7 +45,7 @@ To be able to run the project, follow the steps below.
 
 Find below an image on the expected S3 bucket structure.
 
-![S3bucket](./src/architecture/s3bucket.jpeg)
+![S3bucket](./src/img/architecture/s3bucket.jpeg)
 
 ### Run the code in an Amazon SageMaker Notebook Instance!
 
