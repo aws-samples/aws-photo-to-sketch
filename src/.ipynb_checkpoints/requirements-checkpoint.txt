@@ -1,0 +1,7 @@
+# List all python libraries for the lambda
+tensorflow_hub
+boto3
+Pillow
+gunicorn
+flask
+pandas
