@@ -2,6 +2,15 @@
 
 **Photo to Sketch: Your Artificial Street Artist in the Cloud**, showcase an ML use case that take pictures in an ios phone application and generate their sketched version. To accomplish it, it hosts a pre-trained Fast Arbitrary image style transfer model from TensorFlow in an Amazon SageMaker Endpoint. For further details on the pre-trained ML model, you can check it [here](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2).
 
+## Authors 
+
+- Feng Shi, Data Scientist
+- Ke Li, ML Engineer/Data Scientist
+- Lun Yeh, Data Scientist
+- Naz Levent, Data Scientist
+- Sandra Pico Oristrell, ML Engineer/Data Scientist
+
+<small>*List of authors in alphabetical order by first name*</small>
 ## Outcome
 
 As said, this project allows you to transform an original picture into an styled version by invoking the mentioned ML model through real-time inference. Find below how these styles look like:
